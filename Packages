@@ -5,9 +5,9 @@ Maintainer: LuMartti <luisenrique.mtzro@gmail.com>
 Depends: com.spark.snowboard
 Filename: ./debs/com.lumartti.modern12_1.0_iphoneos-arm.deb
 Size: 2151022
-MD5sum: fb6de926c44b9428a55995ab58de2793
-SHA1: c0acc26bf73be460b07022a5fb15d61273d73d2f
-SHA256: 23795163f586fc652eb40ad43627518b67f305d0cfdca648e73ece864c120843
+MD5sum: ce4ab4fc08ccb1938bdd93ed73b4bf54
+SHA1: 5b3526c66f70d15ac167d8d185abe35b0f58a855
+SHA256: c7017c017f19ec19042f0205e998c88cd109f8be1b86d761f23951a701446c53
 Section: Themes
 Description: A beautiful modern iOS 12 theme that changes the look of the icons to something more detailed
 Author: LuMartti <luisenrique.mtzro@gmail.com>

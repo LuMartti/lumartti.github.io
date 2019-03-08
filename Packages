@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: LuMartti <luisenrique.mtzro@gmail.com>
 Filename: ./debs/com.lumartti.modern12_1.1_iphoneos-arm.deb
 Size: 3130064
-MD5sum: 83fcf2f6662d3294a695f67ef07429e3
-SHA1: adab2689e4de8590921997877edce4c02b5db6bb
-SHA256: e38f4f2d8f0a0d4e9ee8f3db56edb4cca0638bc4d444bb5c9ab03d79e6f078eb
+MD5sum: c3109a32d344a415127503498c0c0c92
+SHA1: 0feaef56f8641316d4e2437caca89c1bfdb98c4d
+SHA256: 00af28a6617f4c1452d1ed551ae5f466b24b99430d11ac758ff1f6a14b5f2099
 Section: Themes
 Description: A beautiful modern iOS 12 theme that changes the look of the icons to something more detailed
 Author: LuMartti <luisenrique.mtzro@gmail.com>

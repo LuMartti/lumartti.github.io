@@ -1,0 +1,106 @@
+body {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e8eaed));
+    background-image: linear-gradient(180deg, #fff, #e8eaed);
+    font-family: apple-system, 'Helvetica Neue', Helvetica, sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+  }
+  
+  .header {
+    padding: 40px 20px 60px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(220.0921658986175, 100.00%, 42.55%, 1.00)), to(hsla(194.5205479452055, 100.00%, 57.06%, 1.00)));
+    background-image: linear-gradient(180deg, hsla(220.0921658986175, 100.00%, 42.55%, 1.00), hsla(194.5205479452055, 100.00%, 57.06%, 1.00));
+    text-align: center;
+  }
+  
+  .heading-h2 {
+    color: #fff;
+    font-size: 30px;
+  }
+  
+  .cell {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 8px 0 20px 0 hsla(224.34782608695653, 34.33%, 13.14%, 0.20);
+  }
+  
+  .wrapper {
+    max-width: 990px;
+    margin-top: -45px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+  
+  .txt-center {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .add-cydia-btn {
+    display: block;
+    width: 180px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    background-color: #47bcff;
+    background-image: -webkit-gradient(linear, left top, right top, from(#0bf), to(#08e4fb));
+    background-image: linear-gradient(90deg, #0bf, #08e4fb);
+    box-shadow: 0 2px 10px 0 hsla(207.0967741935484, 100.00%, 30.39%, 0.20);
+    text-align: center;
+  }
+  
+  .cell-txt {
+    color: #595959;
+    letter-spacing: -0.17px;
+  }
+  
+  .cell-title {
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 700;
+    letter-spacing: -0.18px;
+  }
+  
+  .cell-header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+  
+  .link {
+    color: #0bf;
+    text-decoration: none;
+  }
+  
+  @media (max-width: 479px) {
+    h3 {
+      color: #1c1c1c;
+      font-size: 20px;
+      line-height: 24px;
+    }
+    .heading {
+      text-align: left;
+      letter-spacing: -0.24px;
+    }
+    .cell-title {
+      line-height: 21px;
+    }
+  }
